@@ -1,5 +1,5 @@
 # CS 170 Project Spring 2020
-# Borhan Rafiq, Ananya Krishnan, Sara Reynolds
+### Authors: Borhan Rafiq, Ananya Krishnan, Sara Reynolds
 
 # Files:
   - `parse.py`:   functions to read/write inputs and outputs
